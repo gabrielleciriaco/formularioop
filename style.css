@@ -1,0 +1,36 @@
+html{
+    background-image: url(https://wallpaperaccess.com/full/3868446.png);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+form{
+    margin: 50px 0;
+    background: #aca8d6;
+    padding: 2em 0;
+    width: 940px;
+    margin: 0 auto;
+    opacity: 0.8;
+}
+
+form label, form legend{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 60%;
+}
+
+.checkbox{
+    margin: 20px 0px;
+}
+
